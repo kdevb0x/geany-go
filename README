@@ -1,0 +1,27 @@
+geany-go: A geany plugin to help make it a more enjoyable experience writing Go.
+
+[Go Programming Language (https://golang.org)]
+
+Built in the spirit of vim-go.
+
+Roadmap:
+
+    gocode: Integrate gocode for autocompletion. (See how deoplete-go is doing it)
+
+    gobuild: add gobuild to geany build menu.
+
+    gotest: Integrate gotest somehow; this may require adding terminal to geany
+    	    (which is something I would like to do anyways)
+
+    gotools: Possibly integrate some of the go tools (maybe under a menu?)
+
+
+Contact:
+    If you have any questions, or need to reach me for any legitimate reasons,
+    you can do so by email at kdevb0x@gmail.com
+
+    If it is directly related to this code, including bug reports, and feature
+    requests, please open an issue. My aim is for the issues section to speak
+    as a sort of timeline/histogram of the evolution of the project.
+
+Thanks!
